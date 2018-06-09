@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518602242 source:e:\computer science\game design\tic tac toe\tic tac toe\main.cpp
+	<iostream>
+	<iomanip>
+
+1518602790 source:e:\computer science\college\year 1\programming 1\assignments\game development _ assigment 1\game development _ assigment 1\ehab fawzy\tic tac toe\c++ gamedesign\main.cpp
+	<iostream>
+	<iomanip>
+
